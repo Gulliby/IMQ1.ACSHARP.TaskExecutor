@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.ACSHARP.SimpleFloor", "IMQ1.ACSHARP.SimpleFloor\IMQ1.ACSHARP.SimpleFloor.csproj", "{D585FBD9-D5AF-4A15-B292-945F9DE514F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.ACSHARP.SimpleFloor.Executor", "IMQ1.ACSHARP.SimpleFloor.Executor\IMQ1.ACSHARP.SimpleFloor.Executor.csproj", "{DA9110BD-1F25-4005-9C1E-04F27E630CC8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D585FBD9-D5AF-4A15-B292-945F9DE514F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D585FBD9-D5AF-4A15-B292-945F9DE514F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D585FBD9-D5AF-4A15-B292-945F9DE514F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D585FBD9-D5AF-4A15-B292-945F9DE514F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9110BD-1F25-4005-9C1E-04F27E630CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9110BD-1F25-4005-9C1E-04F27E630CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9110BD-1F25-4005-9C1E-04F27E630CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9110BD-1F25-4005-9C1E-04F27E630CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
