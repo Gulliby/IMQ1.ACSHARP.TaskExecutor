@@ -1,7 +1,7 @@
 # IMQ1.ACSHARP.TaskExecutor
 ## Task
 
-**We need to create a code for generate a N-length list of simple number, this list will be start with 2. **
+**We need to create a code for generate a N-length list of simple number, this list will be start with 2.**
 
 *After the list has been generated, we need to get sum all elements of this list divided by index of this element+1 and we need to get integer part of this sum, method Math.Floor()*
 
